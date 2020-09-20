@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Boundless-Core-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"singletonInstance"
+	],
+	"instvars" : [
+		"gameServers",
+		"gameServersLastUpdateTime",
+		"settlements",
+		"settlementsLastUpdateTime",
+		"planets"
+	],
+	"name" : "BoundlessAPI",
+	"type" : "normal"
+}

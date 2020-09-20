@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Boundless-Core-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"period",
+		"data"
+	],
+	"name" : "BoundlessPopulationStatistics",
+	"type" : "normal"
+}

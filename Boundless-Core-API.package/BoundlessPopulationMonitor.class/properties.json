@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Boundless-Core-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"singletonInstance"
+	],
+	"instvars" : [
+		"statistics"
+	],
+	"name" : "BoundlessPopulationMonitor",
+	"type" : "normal"
+}
