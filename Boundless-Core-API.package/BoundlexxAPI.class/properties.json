@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Boundless-Core-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"singletonInstance"
+	],
+	"instvars" : [
+		"items",
+		"itemsLastUpdateTime"
+	],
+	"name" : "BoundlexxAPI",
+	"type" : "normal"
+}

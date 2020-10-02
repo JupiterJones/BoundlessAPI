@@ -3,6 +3,7 @@ gtInspectPlanetIn: composite
 	<gtInspectorPresentationOrder: 30>
 	| tableValues |
 	tableValues := {('Display Name' -> self displayName).
+	('ID' -> self id).
 	('Assignment' -> self assignment).
 	('Tier' -> self tier).
 	('Region' -> self region).

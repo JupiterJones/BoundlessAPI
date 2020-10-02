@@ -6,6 +6,6 @@ planets
 					(planets
 						detect: [ :planet | planet id = (gameServer at: 'id') ]
 						ifNone:
-							[ planets add: (BoundlessPlanet fromGameServerDictionary: gameServer) ])
+							[ planets add: (BoundlessPlanet new) ])
 						rawData: gameServer ] ].
 	^ planets

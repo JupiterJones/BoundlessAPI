@@ -1,0 +1,3 @@
+defaults
+apiVersion
+	^ 'v1'

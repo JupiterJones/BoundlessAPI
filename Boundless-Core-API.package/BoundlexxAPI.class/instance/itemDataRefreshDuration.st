@@ -1,0 +1,3 @@
+defaults
+itemDataRefreshDuration
+	^ self class itemDataRefreshDuration
